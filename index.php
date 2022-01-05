@@ -1,3 +1,4 @@
 <?php
-echo 'hi beta 2';
+echo 'hi beta';
+echo 'oke ne';
 ?>
