@@ -1,3 +1,3 @@
 <?php
-echo 132222;
+echo 'hi';
 ?>
